@@ -1,0 +1,32 @@
+h1{
+    color:blue
+}
+
+.header{
+    background-color: #D3D3D3;
+    display: flex;
+    justify-content: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+}
+
+.item img{
+    border: 5px solid #555;
+    border-color: black;
+}
+
+p,h2,a{
+    text-align: center;
+    font-size: large;
+}
+
+
+body{
+    background-image: linear-gradient(to right, grey,white);
+}
